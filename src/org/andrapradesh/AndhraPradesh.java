@@ -1,11 +1,18 @@
 package org.andrapradesh;
 
 public class AndhraPradesh {
-	public void telugu() {
-System.out.println("telugu");
-//new lines added. 
+	
+	
+	private void justChecking() {
+		
+	System.out.println("Just checking if there's any conflict");
+		
 
-///////
+	}
+	public void telugu() {
+		
+System.out.println("telugu");
+
 
 int a= 10;
 int b=20;
@@ -13,6 +20,8 @@ int b=20;
 System.out.println(a+b);
 
 
-//////////////////////////
+
+
+
 	}
 }
