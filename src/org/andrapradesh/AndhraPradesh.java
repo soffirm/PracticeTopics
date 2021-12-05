@@ -30,6 +30,19 @@ private void sampleMethod2() {
 		System.out.println("Stefan salvatore");
 		System.out.println("Damon salvatore");
 	}
+	private void tamil() {
+		System.out.println("Elenea gilbert");
+		System.out.println("jeremy gilbert");
+		System.out.println("just checking conflict by DOn");
+
+		}
+	
+	private void english() {
+		System.out.println("bonnni");
+		System.out.println("enzo");
+		System.out.println("just checking conflict by DOn/soffi");
+
+		}
 	
 	
 	
@@ -43,5 +56,12 @@ private void sampleMethod2() {
 
 
 
+
+
 	}
+	
+	
+	
+	
+	
 }
