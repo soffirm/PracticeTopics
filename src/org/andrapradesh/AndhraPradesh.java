@@ -16,6 +16,13 @@ System.out.println("Just checking if there's any conflict");
 	
 
 }
+private void sampleMethod2() {
+	System.out.println("trying to make conflict----2");
+	System.out.println("Let's see..........");
+	System.out.println("Stefan salvatore........");
+	System.out.println("Damon salvatore - checking");
+}
+
 
 	private void sampleMethod() {
 		System.out.println("trying to make conflict");
@@ -30,6 +37,8 @@ System.out.println("Just checking if there's any conflict");
 		AndhraPradesh a= new AndhraPradesh();
 		a.sampleMethod();
 		a.telugu();
+		a.sampleMethod();
+		a.sampleMethod2();
 
 
 
